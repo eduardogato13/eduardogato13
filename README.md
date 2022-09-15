@@ -31,7 +31,7 @@
 
     <body bgcolor="red">
 
-        <h1>SITE DO JAISSON</h1>
+        <h1>SITE DO EDUARDO</h1>
         <img src="https://img.ifunny.co/images/6263dcd0ac30e97971000f656e514de225e6c4350700b1215842823b6e828fab_1.jpg">
         <p id="primeirop">Este é o 1º <b>parágrafo</b> do site do prof. Rômulo, que está sendo criado com os alunos.</p>
         <p id="segundop">2º<i>parágrafo</i> que está se desenvolvendo na aula de pensamento computacional.</p>
